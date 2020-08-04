@@ -1,0 +1,3 @@
+BEGIN
+UPDATE comet SET force_com=Com_mass*gra_con;
+END
